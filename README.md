@@ -8,7 +8,7 @@
 - option to start using the device's accelerometer at a specified frequency
 - option to stop recording accelerometer data
 - ability to automatically save data to .csv file
-- view saved .csv files (raw data, visualized data) --> calculation of phone's fall distance using the free fall equation
+- view saved .csv files (raw data, visualized data) &rarr; calculation of phone's fall distance using the free fall equation
 - delete saved .csv files
 </br>
 
@@ -16,6 +16,6 @@
 | :---:                                                              | :---:                                                              | :---:                                                              |
 | <img src="screenshots/login.jpg" alt="login_page">                 | <img src="screenshots/measure.jpg" alt="landing_page">             | <img src="screenshots/files_list.jpg" alt="files_list_page">       |
 
-| RAW DATA PAGE                                                      | VISUALIZED DATA PAGE                                               |
-| :---:                                                              | :---:                                                              |
-| <img src="screenshots/raw_data.jpg" alt="raw_data" >               | <img src="screenshots/visualized_data.jpg" alt="visualized data">  |
+| RAW DATA PAGE                                                      | VISUALIZED DATA PAGE                                               | VISUALIZED DATA PAGE                                               |
+| :---:                                                              | :---:                                                              | :---:                                                              |
+| <img src="screenshots/raw_data.jpg" alt="raw_data" >               | <img src="screenshots/visualized_data.jpg" alt="visualized data">  | <img src="screenshots/visualized_data.jpg" alt="visualized data">  |
