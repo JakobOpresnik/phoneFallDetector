@@ -12,10 +12,10 @@
 - delete saved .csv files
 </br>
 
-| LOGIN PAGE                                                         | LANDING PAGE                                                       | FILES PAGE                                                         |
-| :---:                                                              | :---:                                                              | :---:                                                              |
-| <img src="screenshots/login.jpg" alt="login_page">                 | <img src="screenshots/measure.jpg" alt="landing_page">             | <img src="screenshots/files_list.jpg" alt="files_list_page">       |
+| LOGIN PAGE                                                                                 | LANDING PAGE                                                                                  | FILES PAGE                                                                                                |
+| :---:                                                                                      | :---:                                                                                         | :---:                                                                                                     |
+| <img src="screenshots/login.jpg" alt="login_page" style="height: 600px; width: 279px;" />  | <img src="screenshots/measure.jpg" alt="landing_page" style="height: 600px; width: 279px;" /> | <img src="screenshots/files_list.jpg" alt="files_list_page" style="height: 600px; width: 279px;" />       |
 
-| RAW DATA PAGE                                                      | VISUALIZED DATA PAGE                                               |
-| :---:                                                              | :---:                                                              |
-| <img src="screenshots/raw_data.jpg" alt="raw_data" >               | <img src="screenshots/visualized_data.jpg" alt="visualized data">  |
+| RAW DATA PAGE                                                                              | VISUALIZED DATA PAGE                                                                                      |
+| :---:                                                                                      | :---:                                                                                                     |
+| <img src="screenshots/raw_data.jpg" alt="raw_data" style="height: 600px; width: 279px;" /> | <img src="screenshots/visualized_data.jpg" alt="visualized data" style="height: 600px; width: 279px;" />  |
