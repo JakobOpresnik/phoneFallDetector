@@ -12,10 +12,14 @@
 - delete saved .csv files
 </br>
 
-| LOGIN PAGE                                                                                 | LANDING PAGE                                                                                  | FILES PAGE                                                                                                |
-| :---:                                                                                      | :---:                                                                                         | :---:                                                                                                     |
-| <img src="screenshots/login.jpg" alt="login_page" style="height: 600px; width: 300px;" />  | <img src="screenshots/measure.jpg" alt="landing_page" style="height: 600px; width: 300px;" /> | <img src="screenshots/files_list.jpg" alt="files_list_page" style="height: 600px; width: 300px;" />       |
+| LOGIN PAGE                                                                                 | LANDING PAGE                                                                                  |
+| :---:                                                                                      | :---:                                                                                         |
+| <img src="screenshots/login.jpg" alt="login_page" style="height: 600px; width: 300px;" />  | <img src="screenshots/measure.jpg" alt="landing_page" style="height: 600px; width: 300px;" /> |
 
 | RAW DATA PAGE                                                                              | VISUALIZED DATA PAGE                                                                                      |
 | :---:                                                                                      | :---:                                                                                                     |
 | <img src="screenshots/raw_data.jpg" alt="raw_data" style="height: 600px; width: 300px;" /> | <img src="screenshots/visualized_data.jpg" alt="visualized data" style="height: 600px; width: 300px;" />  |
+
+| FILES PAGE                                                                                                |
+| :---:                                                                                                     |
+| <img src="screenshots/files_list.jpg" alt="files_list_page" style="height: 600px; width: 300px;" />       |
